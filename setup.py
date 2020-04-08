@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="Ekram49_another_try", # the name that you will install via pip
-    version="1.0",
+    version="2.0",
     author="Ekram Ahmed",
     author_email="ekramullahzaki@gmail.com",
     description="abbreviation to full name",
