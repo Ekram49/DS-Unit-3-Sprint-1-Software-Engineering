@@ -1,5 +1,5 @@
 import pandas
-def convert_names(my_df):
+def convert_names_bd(my_df):
     df = my_df.copy()
     names_map = {
         "DHK": "Dhaka",
