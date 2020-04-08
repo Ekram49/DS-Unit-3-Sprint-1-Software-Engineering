@@ -19,22 +19,4 @@ making the lambdata repo yourself - it will *not* be a fork, and you can have
 more independence and "creative control** in where you take it. You should still
 fork and open a PR to this repo, and edit this file to link to your lambdata.
 
-**My lambdata repository**: Converter
-
-## Installation
-
-```sh
-pip install -i https://test.pypi.org/simple/ Ekram49-another-try
-```
-## Usage
-
-```py
-from ek_1.assignment_1 import convert_names
-
-convert_names(df)
-
-from ek_1_2.assignment_1_2 import convert_names_bd
-
-
-convert_names_bd(df)
-```
+**My lambdata repository**: 1. https://github.com/Ekram49/Ekram-lambdata-13
