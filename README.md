@@ -19,7 +19,7 @@ making the lambdata repo yourself - it will *not* be a fork, and you can have
 more independence and "creative control** in where you take it. You should still
 fork and open a PR to this repo, and edit this file to link to your lambdata.
 
-**My lambdata repository**: This multiplies any given number by 100
+**My lambdata repository**: Converter
 
 ## Installation
 
