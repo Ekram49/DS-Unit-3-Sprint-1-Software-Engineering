@@ -24,7 +24,7 @@ fork and open a PR to this repo, and edit this file to link to your lambdata.
 ## Installation
 
 ```sh
-pip install pip install -i https://test.pypi.org/simple/ Ekram49-another-try==1.0
+pip install -i https://test.pypi.org/simple/ Ekram49-another-try
 ```
 ## Usage
 
